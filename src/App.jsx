@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 
-const API = "https://ai-second-brain-pjfz.onrender.com/"
+const API = "https://ai-second-brain-pjfz.onrender.com"
 
 // ── tiny helpers ──────────────────────────────────────────────
 const api = async (path, opts = {}) => {
