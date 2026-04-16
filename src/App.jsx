@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 
-const API = "http://127.0.0.1:8000"
+const API = "https://ai-second-brain-pjfz.onrender.com/"
 
 // ── tiny helpers ──────────────────────────────────────────────
 const api = async (path, opts = {}) => {
